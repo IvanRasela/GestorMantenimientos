@@ -11,7 +11,7 @@ Aplicación web interna desarrollada con **FastAPI y React** para automatizar la
 ## Capturas de pantalla
 
 ### Panel principal
-![Panel Principal](images/dashboard.png)  
+![Panel Principal](images/mantenimientos.png)  
 Vista general con los datos de los mantenimientos creados. Permite editar y crear nuevos. Al crear un nuevo mantenimiento después de seleccionar el vehículo/maquinaria correspondiente ofrece una lista con los ítems enlazados a él. Esto permite controlar el stock.
 
 ### Vista expandida de mantenimientos
@@ -25,6 +25,10 @@ Lista de los vehículos registrados con sus datos. Si se expande se ven todos lo
 ### Almacén
 ![Almacén](images/almacen.png)  
 Lista con todos los ítems del almacén y su stock. Cada ítem está enlazado a los vehículos/maquinaria con los que es compatible.
+
+### Calendario
+![Calendario](images/calendario.png)  
+Calendario donde se muestran todas las fechas de las próximas ITV registradas.
 
 ## Beneficios
 - Control de fechas de ITVs y mantenimientos  
